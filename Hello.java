@@ -5,5 +5,6 @@ class Hello{
   System.out.println("DevOps");
   System.out.println("DevOps lab");
   System.out.println("Lab");
+  System.out.println("Haii");
 }
 }
