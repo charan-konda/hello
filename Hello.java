@@ -4,5 +4,6 @@ class Hello{
   System.out.println("hello again from  git");
   System.out.println("DevOps");
   System.out.println("DevOps lab");
+  System.out.println("Lab");
 }
 }
